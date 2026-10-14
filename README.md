@@ -6,8 +6,6 @@
 Clone or download this repository, navigate to the notebook folder, and 
 initialize the Conda environment:
 
-# Navigate to the workspace directory
-cd PLANTASTIC/notebook
 
 # Create the Conda environment from environment.yml
 conda env create -f environment.yml
